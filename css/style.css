@@ -11,6 +11,10 @@
     padding-bottom: 6rem;
 }
 
+.display-3 {
+    font-size: 32px;
+}
+
 .my-6 {
     margin-top: 6rem;
     margin-bottom: 6rem;
